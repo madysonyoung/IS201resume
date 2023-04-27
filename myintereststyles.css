@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(255, 192, 248, 0.684);
+    font-family: 'Courier New', Courier, monospace;
+    border: 20px;
+    margin: 30px;
+    color: rgba(128, 128, 128, 0.911);
+}
+h1{
+    text-align: center;
+}
+nav a{
+    float: left;
+    color: rgba(128, 128, 128, 0.911);
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: rgb(255, 192, 218);
+}
+.header{
+    height: 100px;
+    background-color: violet;
+    color:black;
+    line-height: 100px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+.footer{
+    height: 30px;
+    background-color: violet;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    padding-top: 10px;
+    padding-bottom: 35px;
+    text-align: center;
+    color: black;
+}
